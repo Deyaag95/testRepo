@@ -2,4 +2,4 @@
 Test Repository
 
 # Editing the file
-EDdited
+Edited
